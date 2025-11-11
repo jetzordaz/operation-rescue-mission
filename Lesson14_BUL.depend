@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1761614820 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<_scene.h>
+
+1761615505 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_scene.h
+	<_common.h>
+	<_light.h>
+	<_model.h>
+	<_inputs.h>
+	<_textureloader.h>
+	<_parallax.h>
+	<_skybox.h>
+	<_sprite.h>
+	<_timer.h>
+	<_3dmodelloader.h>
+	<_camera.h>
+
+1761614817 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_common.h
+	<iostream>
+	<windows.h>
+	<string>
+	<gl/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
+1756946688 c:\users\jetza\onedrive\desktop\3d games2025\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1761614817 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_light.h
+	<_common.h>
+
+1761614817 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_model.h
+	<_common.h>
+
+1761614817 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_inputs.h
+	<_common.h>
+	<_model.h>
+	<_parallax.h>
+	<_skybox.h>
+	<_sprite.h>
+	<_camera.h>
+	<_3dmodelloader.h>
+
+1761614817 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_parallax.h
+	<_common.h>
+	<_textureLoader.h>
+	<_timer.h>
+
+1761614818 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_textureloader.h
+	<_common.h>
+	<SOIL2.h>
+
+1758760871 c:\users\jetza\onedrive\desktop\3d games2025\common\include\soil2.h
+
+1761614818 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_timer.h
+	<_common.h>
+
+1761614817 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_skybox.h
+	<_common.h>
+	<_textureloader.h>
+
+1761614818 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_sprite.h
+	<_common.h>
+	<_textureloader.h>
+
+1761614817 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_camera.h
+	<_common.h>
+
+1761614817 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_3dmodelloader.h
+	<_common.h>
+	<_textureloader.h>
+	"Anorms.h"
+
+1761614817 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\anorms.h
+
+1761614818 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\src\_3dmodelloader.cpp
+	"_3dmodelloader.h"
+
+1761614818 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\src\_camera.cpp
+	"_camera.h"
+
+1761787248 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\src\_collisioncheck.cpp
+	"_collisionCheck.h"
+
+1761786741 c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\include\_collisioncheck.h
+	<_common.h>
+
+1761614818 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\src\_inputs.cpp
+	"_inputs.h"
+
+1761614818 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\src\_light.cpp
+	"_light.h"
+
+1761614818 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\src\_model.cpp
+	"_model.h"
+
+1761614818 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\src\_parallax.cpp
+	"_parallax.h"
+
+1761785206 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\src\_scene.cpp
+	"_scene.h"
+
+1761614818 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\src\_skybox.cpp
+	"_skybox.h"
+
+1761614818 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\src\_sprite.cpp
+	"_sprite.h"
+
+1761614818 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\src\_textureloader.cpp
+	"_textureloader.h"
+
+1761614818 source:c:\users\jetza\onedrive\desktop\3d games2025\lesson14_bul\src\_timer.cpp
+	"_timer.h"
+
