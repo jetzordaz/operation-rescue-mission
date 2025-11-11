@@ -1,4 +1,4 @@
-# 🛩️ Operation Rescue Bravo
+# 🛩️ Operation Rescue Mission
 
 **Operation Rescue Bravo** is a 3D jet combat and rescue mission game built using the **Lesson 14 OpenGL framework** in Code::Blocks.
 
